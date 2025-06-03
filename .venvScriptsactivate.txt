@@ -1,4 +1,4 @@
 .\venv\Scripts\activate
-az login --tenant f9a32600-15fd-4dd6-91a2-e15ad29cec04
+az login --tenant tenant ID goes here
 python.exe .\app1.py
 python.exe .\mycalculator_func.py
